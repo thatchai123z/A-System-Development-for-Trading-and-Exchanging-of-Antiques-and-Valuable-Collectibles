@@ -6,7 +6,7 @@ Folder client คือระบบหน้าบ้าน
 	หลังจากติดตั้ง VSCode MAMP Node.js แล้วให้เรามาทำตามขั้นตอนดังนี้เพื่อเปิดโปรแกรมระบบซื้อขายและแลกเปลี่ยนโบราณวัติถุและของสะสมมีค่า สามารถทำตามขั้นตอนได้ดังนี้
 	
 1 การดาวน์โหลดโปรแกรมจาก Github
-	ไปที่ เว็บไซต์ https://github.com/HomEza204/Project-Web.git
+	ไปที่ เว็บไซต์ https://github.com/thatchai123z/A-System-Development-for-Trading-and-Exchanging-of-Antiques-and-Valuable-Collectibles.git
 	ทำตามขั้นตอนดังต่อไปนี้
 •	คลิก “Code” 
 •	หลังจากนั้นให้ คลิก “Download ZIP”
